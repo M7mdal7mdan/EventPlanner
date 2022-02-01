@@ -1,0 +1,26 @@
+{
+  "name": "eventplanner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M7mdal7mdan/EventPlanner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/M7mdal7mdan/EventPlanner/issues"
+  },
+  "homepage": "https://github.com/M7mdal7mdan/EventPlanner#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.8",
+    "mongoose-slug-plugin": "^2.1.0"
+  }
+}
